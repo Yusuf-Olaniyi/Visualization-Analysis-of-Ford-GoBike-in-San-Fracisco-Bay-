@@ -4,7 +4,7 @@
 
 ## Dataset
 
->This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. Click[here]([here](https://drive.google.com/file/d/17aW6BINZtS9-ZTNW8_k5WQlxjcWINMlY/view?usp=sharing)) to download
+>This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. Click [here](https://drive.google.com/file/d/17aW6BINZtS9-ZTNW8_k5WQlxjcWINMlY/view?usp=sharing) to download
 
 
 ## Summary of Findings
