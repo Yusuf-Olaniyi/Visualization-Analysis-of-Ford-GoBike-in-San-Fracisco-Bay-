@@ -12,7 +12,7 @@
 > The user age group, location, time of the day and day of the week affects the number of rides.
 
 
-## Key Insights for Presentation
+## Key Insights From Analysis
 
 > There are more rides in the morning 7 am and 10 am and evening between 4 pm and 8 pm.
 
