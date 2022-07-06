@@ -1,10 +1,10 @@
 # Ford GoBike Data Ananlysis for San Francisco Bay Area
-## by Yusuf Olaniy
+## by Yusuf Olaniyi
 
 
 ## Dataset
 
->This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+>This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. Click[https://drive.google.com/file/d/17aW6BINZtS9-ZTNW8_k5WQlxjcWINMlY/view?usp=sharing](here) to download
 
 
 ## Summary of Findings
